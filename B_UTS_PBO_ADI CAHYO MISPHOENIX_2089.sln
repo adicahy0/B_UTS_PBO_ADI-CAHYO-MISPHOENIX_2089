@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_UTS_PBO_ADI CAHYO MISPHOENIX_2089", "B_UTS_PBO_ADI CAHYO MISPHOENIX_2089\B_UTS_PBO_ADI CAHYO MISPHOENIX_2089.csproj", "{EC0A0398-0846-451B-AD47-DB7593EB78EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0A0398-0846-451B-AD47-DB7593EB78EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0A0398-0846-451B-AD47-DB7593EB78EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0A0398-0846-451B-AD47-DB7593EB78EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0A0398-0846-451B-AD47-DB7593EB78EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF5DC91-9C7E-424D-BB3A-E563243AD877}
+	EndGlobalSection
+EndGlobal
